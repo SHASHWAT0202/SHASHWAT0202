@@ -1,11 +1,11 @@
 <!-- GLOWING 3D ANIMATED HEADER -->
 <div align="center">
-  <a href="https://shashwatranjan.co.in/"><img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%" style="border-radius: 10px; box-shadow: 0 0 10px 5px #6A54F7;"/></a>
+  <a href="https://shashwatranjan.co.in/"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/master/header/header.gif?raw=true" width="100%" style="border-radius: 10px; box-shadow: 0 0 10px 5px #6A54F7;"/></a>
 </div>
 
 <!-- 3D SPINNING PROFILE BADGE WITH GLOW -->
 <div align="center">
-  <a href="https://github.com/shashwat0202"><img width="100px" src="https://avatars.githubusercontent.com/u/shashwat0202?v=4" style="border-radius: 50%; border: 5px solid #6A54F7; box-shadow: 0 0 20px 5px #6A54F7; animation: spin 10s linear infinite;" /></a>
+  <a href="https://github.com/shashwat0202"><img width="100px" src="https://github.com/0xabdulkhalid/0xabdulkhalid/raw/main/assets/mdImages/about_me.gif" style="border-radius: 50%; border: 5px solid #6A54F7; box-shadow: 0 0 20px 5px #6A54F7;" /></a>
 </div>
 
 <!-- GLOWING NEON BADGES -->
@@ -25,9 +25,9 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="filter: hue-rotate(90deg); box-shadow: 0 0 10px 1px #6A54F7;">
 </div>
 
-<!-- SPOTIFY CURRENTLY PLAYING -->
+<!-- REPLACED SPOTIFY WITH RELIABLE IMAGE -->
 <div align="center">
-  <img src="https://novatorem-nine-beta.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" style="border-radius: 10px; box-shadow: 0 0 10px 1px #1ED760;"/>
+  <img src="https://github.com/mayhemantt/mayhemantt/blob/master/img/svg/animations/astronaut.gif" alt="Astronaut Animation" width="350" style="border-radius: 10px; box-shadow: 0 0 10px 1px #6A54F7;"/>
 </div>
 
 <!-- ABOUT ME SECTION WITH 3D ANIMATION -->
@@ -97,10 +97,10 @@
   </p>
 </div>
 
-<!-- 3D SKILL VISUALIZATION -->
+<!-- REPLACED CODERSRANK CHART WITH RELIABLE IMAGE -->
 <div align="center">
   <h3>Technical Proficiency</h3>
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=shashwat0202&skills=JavaScript,TypeScript,React,Java,Python,HTML,CSS&width=820" alt="Skills Chart" style="border-radius: 10px; box-shadow: 0 0 20px 2px #6A54F7;"/>
+  <img src="https://github.com/DenverCoder1/DenverCoder1/raw/main/assets/snake-dark.svg" alt="Skills Visualization" style="border-radius: 10px; box-shadow: 0 0 20px 2px #6A54F7; max-width: 820px;"/>
 </div>
 
 <!-- ANIMATED WAVY SEPARATOR -->
@@ -113,14 +113,15 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" style="filter: drop-shadow(0 0 5px #6A54F7);"> GitHub Analytics
 </h2>
 
+<!-- REPLACED PROFILE SUMMARY WITH RELIABLE CARDS -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashwat0202&theme=radical" alt="GitHub Summary" style="border-radius: 10px; box-shadow: 0 0 20px 2px #f13982;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shashwat0202&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 0 20px 2px #f13982; margin-bottom: 20px;"/>
 </div>
 
 <div align="center">
   <a href="https://github.com/shashwat0202">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shashwat0202&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" style="border-radius: 10px; box-shadow: 0 0 20px 2px #f13982; margin-right: 10px;"/>
-    <img height="180em" src="https://github-readme-stats-beryl-beta.vercel.app/api/top-langs/?username=shashwat0202&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 0 20px 2px #f13982;"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat0202&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="border-radius: 10px; box-shadow: 0 0 20px 2px #f13982;"/>
   </a>
 </div>
 
@@ -134,11 +135,9 @@
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=shashwat0202&theme=radical&hide_border=true" alt="Streak Stats" style="border-radius: 10px; box-shadow: 0 0 20px 2px #f13982;"/>
 </div>
 
-<!-- ACTIVITY GRAPH 3D VISUALIZATION -->
+<!-- REPLACED ACTIVITY GRAPH WITH RELIABLE IMAGE -->
 <div align="center">
-  <a href="https://github.com/shashwat0202/github-readme-activity-graph">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shashwat0202&theme=redical&custom_title=Shashwat's%20Contribution%20Graph&hide_border=true&area=true" style="border-radius: 10px; box-shadow: 0 0 20px 2px #f13982;"/>
-  </a>
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shashwat0202&theme=redical&custom_title=Shashwat's%20Contribution%20Graph&hide_border=true" style="border-radius: 10px; box-shadow: 0 0 20px 2px #f13982;"/>
 </div>
 
 <!-- ANIMATED WAVY SEPARATOR -->
@@ -170,9 +169,9 @@
   </a>
 </p>
 
-<!-- ADVANCED CONTRIBUTION SNAKE ANIMATION -->
+<!-- REPLACED SNAKE ANIMATION WITH RELIABLE ONE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation" style="width:100%; filter: drop-shadow(0 0 10px #6A54F7);"/>
+  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg" alt="GitHub Contribution Grid Snake Animation" style="width:100%; filter: drop-shadow(0 0 10px #6A54F7);"/>
 </p>
 
 <!-- 3D ANIMATED CODING GIF -->
@@ -193,14 +192,10 @@
 
 <!-- ADVANCED ANIMATED FOOTER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" style="filter: drop-shadow(0 0 10px #6A54F7);"/>
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" style="filter: drop-shadow(0 0 10px #6A54F7);"/>
 </div>
 
-<!-- 3D GLOWING GITHUB SNAKE ANIMATION -->
+<!-- REPLACED GITHUB SNAKE ANIMATION WITH RELIABLE IMAGE -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shashwat0202/shashwat0202/output/github-contribution-grid-snake-dark.svg" style="filter: drop-shadow(0 0 10px #6A54F7);">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shashwat0202/shashwat0202/output/github-contribution-grid-snake.svg" style="filter: drop-shadow(0 0 10px #6A54F7);">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/shashwat0202/shashwat0202/output/github-contribution-grid-snake.svg" style="filter: drop-shadow(0 0 10px #6A54F7);">
-  </picture>
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg" style="filter: drop-shadow(0 0 10px #6A54F7);">
 </div> 
