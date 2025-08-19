@@ -42,6 +42,64 @@ const shashwat = {
 
 ---
 
+## 🌟 Featured Projects
+
+<div align="center">
+
+### 🏆 Latest & Top Projects
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🧘 Serenity
+*Mental Health & Wellness Platform*
+- **Focus**: Mental health support and wellness tracking
+- **Tech Stack**: Full Stack Web Development
+- **Status**: Latest Project ⚡
+- **Features**: 
+  - User wellness dashboard
+  - Mental health resources
+  - Progress tracking
+
+</td>
+<td width="50%">
+
+#### 🌱 Smart Soil
+*AI-Powered Agricultural Platform*
+- **Live**: [soils.vercel.app](https://soils.vercel.app)
+- **Focus**: Precision farming with AI & satellite data
+- **Features**:
+  - AI soil analysis
+  - Satellite imagery integration
+  - Crop yield optimization
+  - Real-time monitoring
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+#### 🏛️ CivicSync
+*Community Engagement & Issue Resolution Platform*
+- **Live**: [civicsync.vercel.app](https://civicsync.vercel.app)
+- **Focus**: Connecting citizens with local authorities
+- **Key Features**:
+  - 📍 Location-based issue reporting with Google Maps
+  - 📸 Image upload for visual evidence
+  - 🗳️ Community voting system for issue prioritization
+  - 📊 Real-time tracking and progress updates
+  - 🗺️ Interactive community issue map
+- **Impact**: Streamlining community problem-solving and civic participation
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
