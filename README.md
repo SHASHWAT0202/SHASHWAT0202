@@ -46,6 +46,7 @@ const shashwat = {
 
 - 🥇 **Top 10 Finalist — Microsoft Innovate Hackathon 2025**
 - 🥈 **Top 15 out of 3,800+ teams — Odoo x NMIT Hackathon 2025**
+- 💼 Former **Project Intern @ DRDO Jodhpur**
 - 🛠️ **Selected in Internal Hackathon to Submit Idea for Smart India Hackathon (SIH) 2025)**
 - 🏅 **Multiple Top 10 Hackathon Positions (3 times)**
 - 🚀 Founder & Team Lead — **Código Maestro**
