@@ -88,27 +88,40 @@ A civic engagement & issue-reporting platform:
 
 <div align="center">
 
-### 🚀 Core Skills  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
+## 🚀 Core Programming
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,sql&perline=6" />
+</a>
 
-### 🎨 Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
+## 🎨 Frontend Development
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css&perline=6" />
+</a>
 
-### ⚙️ Backend  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+## ⚙️ Backend & API Development
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask&perline=3" />
+</a>
 
-### 🛠 Tools  
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+## 🤖 Machine Learning & AI
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=3" />
+</a>
+
+## 🗄️ Databases
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase&perline=3" />
+</a>
+
+## ☁️ Cloud & Deployment
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=azure,gcp,vercel&perline=3" />
+</a>
+
+## 🛠 Developer Tools & DevOps
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" />
+</a>
 
 </div>
 
