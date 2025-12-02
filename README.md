@@ -88,7 +88,7 @@ A civic engagement & issue-reporting platform:
 
 <div align="center">
 
-## 🚀 Core Programming
+##  Core Programming
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,sql&perline=6" />
 </a>
