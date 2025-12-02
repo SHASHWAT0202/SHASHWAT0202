@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="border-radius: 10px;"/>
 
@@ -24,8 +24,12 @@
 const shashwat = {
   role: "Full Stack Developer",
   education: "B.Tech CSE @ Bennett University",
-  location: "India",
-  currentFocus: ["Next.js 14", "FastAPI", "AI Integrations"],
+  location: "India 🇮🇳",
+  currentFocus: [
+    "Next.js 14",
+    "FastAPI", 
+    "AI Integrations"
+  ],
   languages: ["Java", "Python", "JavaScript", "C++"],
   interests: ["Open Source", "AI/ML", "Problem Solving"],
   funFact: "I debug with console.log() and I'm proud of it! 🐛"
@@ -130,20 +134,11 @@ A civic engagement & issue-reporting platform:
 # 📊 GitHub Analytics
 
 <div align="center">
+  <!-- GitHub Stats Card -->
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shashwat0202&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=818CF8&text_color=c9d1d9&count_private=true" />
+  
+  <!-- Most Used Languages Card -->
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shashwat0202&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9&langs_count=8" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="90%" src="https://streak-stats.demolab.com?user=shashwat0202&theme=tokyonight&hide_border=true&background=0d1117&ring=6366F1&fire=818CF8&currStreakLabel=c9d1d9" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=shashwat0202&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366F1&line=818CF8&point=c9d1d9" />
 </div>
 
 ---
