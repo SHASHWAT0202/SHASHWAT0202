@@ -130,12 +130,20 @@ A civic engagement & issue-reporting platform:
 # 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=shashwat0202&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat0202&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shashwat0202&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=818CF8&text_color=c9d1d9&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shashwat0202&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9&langs_count=8" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=shashwat0202&theme=github-dark-blue&hide_border=true" />
+  <img width="90%" src="https://streak-stats.demolab.com?user=shashwat0202&theme=tokyonight&hide_border=true&background=0d1117&ring=6366F1&fire=818CF8&currStreakLabel=c9d1d9" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=shashwat0202&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366F1&line=818CF8&point=c9d1d9" />
 </div>
 
 ---
