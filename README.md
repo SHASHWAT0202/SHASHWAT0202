@@ -134,13 +134,17 @@ A civic engagement & issue-reporting platform:
 # 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shashwat0202&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=818CF8&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shashwat0202&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <!-- GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shashwat0202&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=818CF8&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
+  
+  <!-- Most Used Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat0202&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
+  <!-- GitHub Streak -->
   <img width="90%" src="https://streak-stats.demolab.com?user=shashwat0202&theme=tokyonight&hide_border=true&background=0d1117&ring=6366F1&fire=818CF8&currStreakLabel=c9d1d9" alt="GitHub Streak" />
 </div>
 
